@@ -7,7 +7,7 @@
 
 A highly polished, responsive landing page built. This project focuses heavily on clean UI/UX principles, smooth animations, and a highly interactive navigation system.
 
-**[View Live Demo (Click Me)](https://sct-wd-1-kappa-opal.vercel.app/)**
+**[View Live Demo (Click Me)](https://sct-wd-1-woad.vercel.app/)**
 
 ## 📸 Preview
 
